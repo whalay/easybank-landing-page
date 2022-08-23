@@ -10,6 +10,7 @@
 
 # production
 /build
+/easybank-landing-page-master
 
 # misc
 .DS_Store
