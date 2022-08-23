@@ -27,7 +27,7 @@ const Navbar = () => {
                             <a
                                 key={index}
                                 className="font-Public-Sans relative block text-md text-Grayish-Blue hover:text-Dark-Blue hover:after:contents-[''] hover:after:h-1 hover:after:absolute hover:after:-bottom-[34px] hover:after:w-full hover:after:block hover:after:bg-gradient-to-r hover:after:from-Lime-Green hover:after:to-Bright-Cyan hover:after:rounded-t font-medium transition-all"
-                                href="#"
+                                href="/#"
                             >
                                 {contact}
                             </a>
@@ -59,7 +59,7 @@ const Navbar = () => {
                         <a
                             key={index}
                             className="font-Public hover:text-Link transition-all text-md text-Dark-Blue"
-                            href="/"
+                            href="/#"
                         >
                             {contact}
                         </a>
