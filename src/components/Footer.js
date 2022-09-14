@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../components/images/logo1.svg';
 import twitter from '../components/images/icon-twitter.svg';
 import pinterest from '../components/images/icon-pinterest.svg';
-import youtube from '../components/images/icon-pinterest.svg';
+import youtube from '../components/images/icon-youtube.svg';
 import facebook from '../components/images/icon-facebook.svg';
 import instagram from '../components/images/icon-instagram.svg';
 
