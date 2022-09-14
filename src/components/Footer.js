@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../components/images/logo.svg';
+import logo from '../components/images/logo1.svg';
 import twitter from '../components/images/icon-twitter.svg';
 import pinterest from '../components/images/icon-pinterest.svg';
 import youtube from '../components/images/icon-pinterest.svg';

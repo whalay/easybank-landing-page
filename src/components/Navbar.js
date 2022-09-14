@@ -48,7 +48,7 @@ const Navbar = () => {
             </div>
 
             <div
-                className={`${navbar ? "opacity-100" : "opacity-0 -translate-y-[1000px]"
+                className={`${navbar ? "opacity-100" : "opacity-0 -translate-y-[1000px] "
                     } fixed md:hidden block top-0 bottom-0 right-0 left-0 transition-all duration-500 backdrop-blur-sm bg-Dark-Blue bg-opacity-60 z-[3001]`}
             >
                 <div
